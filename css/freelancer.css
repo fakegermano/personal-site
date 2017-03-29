@@ -399,3 +399,13 @@ footer .footer-below {
 .navbar-default .navbar-nav > .active > a {
   background-color: #c700b2;
 }
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: #ff7218;
+}
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ff7218;
+}
+.navbar-default .navbar-nav > li > a:target {
+  color: #ff7218;
+}
