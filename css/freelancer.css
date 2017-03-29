@@ -6,6 +6,7 @@
 
 body {
   overflow-x: hidden;
+  color: #c700b2;
 }
 p {
   font-size: 20px;
@@ -392,5 +393,9 @@ footer .footer-below {
 }
 
 .navbar-default {
-    background-color: #686506
+    background-color: #686506;
+}
+
+.navbar-default .navbar-nav > .active > a {
+  background-color: #c700b2;
 }
